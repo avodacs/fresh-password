@@ -29,6 +29,10 @@ const fp = require('fresh-password');
 let password = fp.generate();
 ```
 
+## Acknowledgements
+
+fresh-password was inspired by <http://www.dinopass.com/>
+
 ## Contributing
 
 Please feel free to request changes, especially to the word lists.
